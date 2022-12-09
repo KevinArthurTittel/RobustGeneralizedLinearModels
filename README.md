@@ -5,4 +5,5 @@ For the MSc Econometrics & Management Science, specializing in Business Analytic
 # Replication files
 
 This folder contains files for as well as a general introduction for the reader:
-- Outlier and contamination effects on parameter variability.pdf: This file contains both the assignment and the simulation code used in R.
+- Replication results.R: this file produces the boxplots in Figure 1-9 and estimation results in Table 1 for uncontaminated data, contaminated data with the t-distribution, and data with bad leverage outliers.
+- Outlier and contamination effects on parameter variability.pdf: This file contains the written assignment.
